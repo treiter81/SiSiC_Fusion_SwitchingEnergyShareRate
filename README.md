@@ -6,3 +6,6 @@ For more detailed description please refer to the paper!
 * ExampleData.mat: Some measured scope waveforms as example
 * Energy_ONFUSION.m: Function to extract operating points, dv/dts, di/dts and the energy share rates between IGBT and SiC MOSFET
 * Run_Example.m: Load the example and run the function
+
+# Detailed Description:
+* TBD: Paper Link after publication.
